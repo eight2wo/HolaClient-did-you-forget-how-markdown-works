@@ -1,17 +1,18 @@
-# HolaClient License and Agreement
+# License and Agreement
 ---
-This License Agreement is entered into between the Licensor "CR072" and any person obtaining a copy of the HolaClient software "Licensee". Subject to the terms and conditions of this Agreement, I grant Licensee a non-exclusive, non-transferable license to use the HolaClient software and any modified versions with a valid license key.
-Licensee is authorized to use the HolaClient software for commercial purposes, provided that a valid license key is obtained from the official [user console](https://console.holaclient.tech). The HolaClient software and its source code are proprietary to the owner (CR072). All rights not expressly granted herein are reserved.
+This Software License Agreement establishes the terms and conditions governing the use of the (Software Name) software by any individual or entity obtaining a copy using (Software License Obtaining Method). In consideration of the foregoing, (Licenser) grants Licensee a non-exclusive, non-transferable license to use the Software and any authorized modifications, provided a valid license key is obtained as specified herein.
 
 The following actions are strictly prohibited, including but not limited to:
-- Distribute any part of HolaClient (including its code, binaries, ...) without authorization.
-- Commercial use of the HolaClient software without a license key.
-- Removal of credits in any part of the code without CR072's permission.
+- Distribute any part of (Software Name) (including its code, binaries, ...) without authorization.
+- Commercial use of the (Software Name) software without a license key.
+- Removal of credits in any part of the code without (Licenser) permission.
 
-**THE HOLACLIENT SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. HOLACLIENT DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. CR072 SHALL NOT BE LIABLE FOR ANY DAMAGES, INCLUDING BUT NOT LIMITED TO ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THE HOLACLIENT SOFTWARE.**
+**THE (Software Name) SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. (Software Name) DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. CR072 SHALL NOT BE LIABLE FOR ANY DAMAGES, INCLUDING BUT NOT LIMITED TO ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THE HOLACLIENT SOFTWARE.**
 
-By using the HolaClient software, Licensee agrees to be bound by the terms and conditions of this Agreement.
+By using the (Software Name) software, the Licensee agrees to be bound by the terms and conditions of this Agreement.
 Failure to bound by the terms of conditions may lead you to face **legal consequences**, ranging from a DMCA to a possible lawsuit.
 
-CR072
-30.01.2024
+---
+# Additional notes
+This project is derived from the official HolaClient project, and has **nothing to do** with it.
+This proprietary license used in this project is based on the "Licenser and Licensee" model. You're free to use this license anywhere you want.
